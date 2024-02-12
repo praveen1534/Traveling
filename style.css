@@ -93,6 +93,8 @@ span.logo{
 .containertext{
     width: 70%;
     text-align: center;
+    position:relative;
+    left:20%;
 }
 .containertext h1 {
     padding-bottom: 20px;
